@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Husnaahh/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Husnaahh/Leetcode/tree/master/0027-remove-element) |
+| [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Husnaahh/Leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->

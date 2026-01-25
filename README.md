@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Husnaahh/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+| [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Husnaahh/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+| [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |

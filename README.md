@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Husnaahh/Leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Husnaahh/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Husnaahh/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
@@ -105,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Husnaahh/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Husnaahh/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

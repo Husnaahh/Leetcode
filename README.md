@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Husnaahh/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Husnaahh/Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Husnaahh/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Husnaahh/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Husnaahh/Leetcode/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Husnaahh/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Husnaahh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Husnaahh/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Husnaahh/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Husnaahh/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -123,8 +125,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Husnaahh/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Husnaahh/Leetcode/tree/master/0043-multiply-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

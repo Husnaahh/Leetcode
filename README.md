@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Husnaahh/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Husnaahh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Husnaahh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Husnaahh/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/Husnaahh/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Husnaahh/Leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Husnaahh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Husnaahh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Husnaahh/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |

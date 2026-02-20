@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Husnaahh/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+| [0761-special-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/0761-special-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0761-special-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Husnaahh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Husnaahh/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Husnaahh/Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/0761-special-binary-string) |
 ## Merge Sort
 |  |
 | ------- |

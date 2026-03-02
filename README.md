@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [0761-special-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/0761-special-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Husnaahh/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Husnaahh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Husnaahh/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
 | ------- |

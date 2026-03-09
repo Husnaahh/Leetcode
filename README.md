@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Husnaahh/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Husnaahh/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Husnaahh/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Husnaahh/Leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Husnaahh/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->

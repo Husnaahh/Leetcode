@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Husnaahh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Husnaahh/Leetcode/tree/master/0342-power-of-four) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Husnaahh/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Husnaahh/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Husnaahh/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Husnaahh/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Husnaahh/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->

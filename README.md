@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Husnaahh/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Husnaahh/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Husnaahh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Husnaahh/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Husnaahh/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Sliding Window
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Husnaahh/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Husnaahh/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Trie

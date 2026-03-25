@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/Husnaahh/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Husnaahh/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Husnaahh/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Husnaahh/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Husnaahh/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Husnaahh/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2906-construct-product-matrix](https://github.com/Husnaahh/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Husnaahh/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Husnaahh/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Husnaahh/Leetcode/tree/master/1622-fancy-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Husnaahh/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->

@@ -11,9 +11,7 @@ class Solution {
     odd1.sort();
     odd2.sort();
 
-    return even1[0] == even2[0] &&
-           even1[1] == even2[1] &&
-           odd1[0] == odd2[0] &&
-           odd1[1] == odd2[1];
+    return even1.join() == even2.join() &&
+           odd1.join() == odd2.join();
   }
 }

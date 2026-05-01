@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Husnaahh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Husnaahh/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
+| [0396-rotate-function](https://github.com/Husnaahh/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Husnaahh/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Husnaahh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Husnaahh/Leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Husnaahh/Leetcode/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/Husnaahh/Leetcode/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Husnaahh/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Husnaahh/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Husnaahh/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0396-rotate-function](https://github.com/Husnaahh/Leetcode/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Husnaahh/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Husnaahh/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

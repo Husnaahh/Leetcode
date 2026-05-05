@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Husnaahh/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Husnaahh/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Husnaahh/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Husnaahh/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Husnaahh/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Husnaahh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Husnaahh/Leetcode/tree/master/0078-subsets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Husnaahh/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Husnaahh/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Husnaahh/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Husnaahh/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Husnaahh/Leetcode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Husnaahh/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Husnaahh/Leetcode/tree/master/0342-power-of-four) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Husnaahh/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Husnaahh/Leetcode/tree/master/0079-word-search) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Husnaahh/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Husnaahh/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |

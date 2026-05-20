@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Husnaahh/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Husnaahh/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Husnaahh/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Husnaahh/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Husnaahh/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Husnaahh/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Husnaahh/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Husnaahh/Leetcode/tree/master/1345-jump-game-iv) |
 | [1980-find-unique-binary-string](https://github.com/Husnaahh/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Husnaahh/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Husnaahh/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Husnaahh/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Husnaahh/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Husnaahh/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Husnaahh/Leetcode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Husnaahh/Leetcode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/Husnaahh/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Husnaahh/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
